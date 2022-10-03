@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "awards_app",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "covhcrxtbthvfo",
+    "password": "ef729bb8e6a41bee62e26dad61d61c010a2b8c25af657a00fb7695b8f91406b1",
+    "database": "da8nur4fu5h237",
+    "host": "ec2-44-209-158-64.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "covhcrxtbthvfo",
+    "password": "ef729bb8e6a41bee62e26dad61d61c010a2b8c25af657a00fb7695b8f91406b1",
+    "database": "da8nur4fu5h237",
+    "host": "ec2-44-209-158-64.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
